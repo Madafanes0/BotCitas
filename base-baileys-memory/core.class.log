@@ -1,0 +1,103 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213317109900@s.whatsapp.net',
+    fromMe: false,
+    id: '3AFC00982C19CEB98395',
+    participant: undefined
+  },
+  messageTimestamp: 1710992537,
+  pushName: 'Madafanes',
+  broadcast: false,
+  message: Message {
+    conversation: 'PENE',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'PENE',
+  from: '5213317109900'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6c2d476a-75fa-4439-a484-b021a37fb2e9',
+  keyword: 'key_a18f60a4-fab8-433b-9d41-b395cbf6a21f',
+  answer: '👋 ¡Hola! ¿En qué puedo ayudarte hoy?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'db8f1bfdda037bb337daa8c53d61afe5'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e06b9164-2e58-4f34-bbe6-bacc60615db1',
+  keyword: 'ans_6c2d476a-75fa-4439-a484-b021a37fb2e9',
+  answer: 'te comparto los siguientes links de interes sobre el proyecto\n' +
+    '👉 *Cita* para agendar una cita\n' +
+    '👉 *Disponibilidad*  para ver la disponibilidad\n' +
+    '👉 *Web* para mandarte a un sitio web',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2fc9d0f291037f1dfd6dd5f856e2f38e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213317109900@s.whatsapp.net',
+    fromMe: false,
+    id: '3A37350A6D9B3A5598E1',
+    participant: undefined
+  },
+  messageTimestamp: 1710992549,
+  pushName: 'Madafanes',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cita',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cita',
+  from: '5213317109900'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b9cbcd94-c88f-4cd0-90f6-4f3c0817ad4c',
+  keyword: 'key_0adfaefb-e304-4dd5-a5a4-88ac3e9d6fc5',
+  answer: '📅 ¿Cuál es la fecha y hora de la cita?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7648b3a6ac2977bb1ced7e0b81d87e80'
+}
